@@ -1,0 +1,8 @@
+-batch 
+-create my_peripheral 
+-ver 1.00.a 
+-dir "D:\RA191-2016\lab3" 
+-lang verilog 
+-bus axi4lite s 
+-reg 1 
+-xps 
